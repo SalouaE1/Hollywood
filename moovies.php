@@ -15,172 +15,125 @@
     <div class="row">
         <div class="card mb-3 mr-3" style="max-width:540px;">
             <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img src="filmsforsite/training.jpg" alt="Image training day" class="card-img" style="height:35vh; object-fit: cover;">
+                <div class="col-md-5">
+                    <img src="filmsforsite/game.jpg" alt="" class="card-img" style="height:45vh; object-fit: cover; margin-top: 50px;">
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-7">
                     <div class="card-body">
-                        <h2 class="card-title">Training Day</h2>
-                        <p class="card-text">Lors de son premier jour en tant qu'officier des stupéfiants à Los Angeles, un policier novice dépasse les limites d'une journée de travail en formation bien remplie au sein de la division des stupéfiants du commissariat de Los Angeles avec un détective qui n'est pas ce qu'il semble être.</p>
-                        <p class="card-text"><small class="text-muted">Date de sortie: 7 novembre 2001 (France)</small></p>
+                        <h2 class="card-title">The Game</h2>
+                        <p class="card-text" style="text-align:justify;">Nicholas Van Orton, un homme d'affaires riche et solitaire, interprété par Michael Douglas. Pour son anniversaire, son frère lui offre une expérience de divertissement en réalité virtuelle qui prend rapidement le contrôle de sa vie. Alors que Nicholas est plongé dans une série d'événements troublants et perturbants,
+                         il doit démêler la réalité de la fiction et découvrir les motivations derrière ce jeu complexe</p>
+                        <p class="card-text"><small class="text-muted">Date de sortie: 12 Septembre 1997</small></p>
                     </div>
                 </div>
             </div>
         </div>
+
         <div class="card mb-3 mr-3" style="max-width:540px;">
             <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img src="filmsforsite/carlito.jpg" alt="" class="card-img" style="height:35vh; object-fit: cover;">
+                <div class="col-md-5">
+                    <img src="filmsforsite/6emesens.jpg" alt="Image 6éme Sens" class="card-img" style="height:45vh; object-fit: cover; margin-top: 50px;">
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-7">
                     <div class="card-body">
-                        <h2 class="card-title">L'impasse</h2>
-                        <p class="card-text">Un ex-détenu portoricain, qui vient de sortir de prison, se jure de se tenir à distance de la drogue et de la violence malgré la pression de son entourage, et de vivre une vie tranquille en dehors de New York.</p>
-                        <p class="card-text"><small class="text-muted">Date de sortie: 23 mars 1994 (France)</small></p>
+                        <h2 class="card-title">6éme Sens</h2>
+                        <p class="card-text" style="text-align:justify;">À Philadelphie,un brillant psychologue pour enfants, Malcolm Crowe, consacre tout son temps à ses jeunes patients, au risque de délaisser sa femme Anna. Un jour, Malcolm fait la connaissance de Cole Sear, un petit garçon de 8 ans, hanté par un terrible secret : il voit les morts..</p>
+                        <p class="card-text"><small class="text-muted">Date de sortie: 06 Aout 1999</small></p>
                     </div>
                 </div>
             </div>
         </div>
+
         <div class="card mb-3 mr-3" style="max-width:540px;">
             <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img src="filmsforsite/babel.jpg" alt="" class="card-img" style="height:35vh; object-fit: cover;">
+                <div class="col-md-5">
+                    <img src="filmsforsite/fight-club.jpg" alt="" class="card-img" style="height:45vh; object-fit: cover; margin-top: 50px;">
                 </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                       <h2 class="card-title">Babel</h2>
-                        <p class="card-text">En plein désert marocain, un coup de feu retentit. Il va déclencher toute une série d'événements qui impliqueront un couple de touristes américains au bord du naufrage, deux jeunes Marocains auteurs d'un crime accidentel, une nourrice qui voyage illégalement avec deux enfants américains, et une adolescente japonaise rebelle dont le père est recherché par la police à Tokyo. Séparés par leurs cultures et leurs modes de vie, chacun de ces quatre groupes de personnes va cependant connaître une même destinée d'isolement et de douleur… .</p>
-                        <p class="card-text"><small class="text-muted">Date de sortie: 2 février 2000 (France)</small></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-3 mr-3" style="max-width:540px;">
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img src="filmsforsite/casino.jpg" alt="" class="card-img" style="height:35vh; object-fit: cover;">
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h2 class="card-title">Casino</h2>
-                        <p class="card-text">Une histoire d'avidité, de tromperie, d'argent, de pouvoir et de meurtre se produit entre deux meilleurs amis: un agent de la mafia et un dirigeant de casino s'affrontent/entrent en compétition à cause d'un empire du jeu et d'une jeune femme mondaine à la vie trépidante.</p>
-                        <p class="card-text"><small class="text-muted">Date de sortie: 13 mars 1996 (France)</small></p>
-                    </div>
-                </div>
-            </div>
-        </div>  
-        <div class="card mb-3 mr-3" style="max-width:540px;">
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img src="filmsforsite/scarface.jpg" alt="" class="card-img" style="height:35vh; object-fit: cover;">
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h2 class="card-title">Scarface</h2>
-                        <p class="card-text">En 1980 à Miami, un immigrant cubain déterminé prend en charge un cartel de drogue et succombe au vice d'avidité.</p>
-                        <p class="card-text"><small class="text-muted">Date de sortie: 7 mars 1984 (France)</small></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-3 mr-3" style="max-width:540px;">
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img src="filmsforsite/casino.jpg" alt="" class="card-img" style="height:35vh; object-fit: cover;">
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h2 class="card-title">Casino</h2>
-                        <p class="card-text">Une histoire d'avidité, de tromperie, d'argent, de pouvoir et de meurtre se produit entre deux meilleurs amis: un agent de la mafia et un dirigeant de casino s'affrontent/entrent en compétition à cause d'un empire du jeu et d'une jeune femme mondaine à la vie trépidante.</p>
-                        <p class="card-text"><small class="text-muted">Date de sortie: 13 mars 1996 (France)</small></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-3 mr-3" style="max-width:540px;">
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img src="filmsforsite/sawII.jpg" alt="" class="card-img" style="height:35vh; object-fit: cover;">
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h2 class="card-title">Saw II</h2>
-                        <p class="card-text">Dans un monde du futur, un chef de gang sadique est emprisonné et se porte volontaire pour une expérience, mais tout ne se passe pas comme prévu.</p>
-                        <p class="card-text"><small class="text-muted">Date de sortie: 21 avril 1972 (France)</small></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-3 mr-3" style="max-width:540px;">
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img src="filmsforsite/fightclub.jpg" alt="" class="card-img" style="height:35vh; object-fit: cover;">
-                </div>
-                <div class="col-md-8">
+                <div class="col-md-7">
                     <div class="card-body">
                         <h2 class="card-title">Fight Club</h2>
-                        <p class="card-text">Un employé de bureau insomniaque et un fabriquant de savons forment un club de combat clandestin qui devient beaucoup plus que ça.</p>
-                        <p class="card-text"><small class="text-muted">Date de sortie: 10 novembre 1999 (France)</small></p>
+                        <p class="card-text" style="text-align:justify;">Un employé de bureau insomniaque et un fabriquant de savons forment un club de combat clandestin qui devient beaucoup plus que ça.</p>
+                        <p class="card-text"><small class="text-muted">Date de sortie: 10 novembre 1999</small></p>
                     </div>
                 </div>
             </div>
         </div>
+
         <div class="card mb-3 mr-3" style="max-width:540px;">
             <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img src="filmsforsite/goodfellas.jpg" alt="" class="card-img" style="height:35vh; object-fit: cover;">
+                <div class="col-md-5">
+                    <img src="filmsforsite/cast-way.jpg" alt="" class="card-img" style="height:45vh; object-fit: cover; margin-top: 50px;">
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-7">
                     <div class="card-body">
-                        <h2 class="card-title">Les affranchis</h2>
-                        <p class="card-text">L'histoire d'Henry Hill et de sa vie dans la mafia, couvrant ses relations avec son épouse Karen Hill et ses partenaires de la mafia Jimmy Conway et Tommy DeVito dans le syndicat du crime italo-américain.</p>
-                        <p class="card-text"><small class="text-muted">Date de sortie: 12 septembre 1990 (France)</small></p>
+                        <h2 class="card-title">Seul au Monde (Cast Way) </h2>
+                        <p class="card-text" style="text-align:justify;">Chuck Noland, un cadre de FedEx, dont l'avion s'écrase sur une île déserte. Livré à lui-même pendant quatre ans, il doit apprendre à survivre, surmonter la solitude et réinventer sa vie</p>
+                        <p class="card-text"><small class="text-muted">Date de sortie: 22 Décembre 2000</small></p>
                     </div>
                 </div>
             </div>
         </div>
+                
         <div class="card mb-3 mr-3" style="max-width:540px;">
             <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img src="filmsforsite/intouchables.jpg" alt="" class="card-img" style="height:35vh; object-fit: cover;">
+                <div class="col-md-5">
+                    <img src="filmsforsite/the others.jpg" alt="" class="card-img" style="height:45vh; object-fit: cover; margin-top: 50px;">
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-7">
                     <div class="card-body">
-                        <h2 class="card-title">Intouchables</h2>
-                        <p class="card-text">Après être devenu tétraplégique à la suite d'un accident de parapente, un aristocrate engage un jeune homme des cités en tant qu'aide-soignant.</p>
-                        <p class="card-text"><small class="text-muted">Date de sortie: 2 novembre 2011 (France)</small></p>
+                        <h2 class="card-title">The Others</h2>
+                        <p class="card-text" style="text-align:justify;">Dans une grande et austère demeure médiévale de la campagne anglaise, une mère de bonne société élève seule ses deux enfants en attendant son mari, qui n’est jamais revenu de la Seconde Guerre mondiale. Lorsque de nouveaux domestiques arrivent, ils réalisent rapidement que d’autres mystérieux habitants peuplent la maison…</p>
+                        <p class="card-text"><small class="text-muted">Date de sortie: 22 octobre 2001</small></p>
                     </div>
                 </div>
             </div>
-        </div>
+        </div>              
+    
         <div class="card mb-3 mr-3" style="max-width:540px;">
             <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img src="filmsforsite/training.jpg" alt="" class="card-img" style="height:35vh; object-fit: cover;">
+                <div class="col-md-5">
+                    <img src="filmsforsite/terminal.jpg" alt="" class="card-img" style="height:45vh; object-fit: cover; margin-top: 50px;">
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-7">
                     <div class="card-body">
-                        <h2 class="card-title">Réservoir Dogs</h2>
-                        <p class="card-text">Un chef de la mafia réunit une équipe de six criminels expérimentés dans le but de réaliser un grand braquage de bijouterie.</p>
-                        <p class="card-text"><small class="text-muted">Date de sortie: 13 mai 1992 (France)</small></p>
+                        <h2 class="card-title">Le Terminal</h2>
+                        <p class="card-text" style="text-align:justify;">Viktor Navorski, un homme bloqué dans un aéroport américain en raison d'un conflit politique dans son pays. Il crée une nouvelle vie dans la zone de transit en aidant les autres voyageurs et en développant des relations avec le personnel...</p>
+                        <p class="card-text"><small class="text-muted">Date de sortie: 18 juin 2004</small></p>
                     </div>
                 </div>
             </div>
         </div>
+
         <div class="card mb-3 mr-3" style="max-width:540px;">
             <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img src="filmsforsite/wolfof.jpg" alt="" class="card-img" style="height:35vh; object-fit: cover;">
+                <div class="col-md-5">
+                    <img src="filmsforsite/Shelter.jpg" alt="" class="card-img" style="height:45vh; object-fit: cover; margin-top: 50px;">
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-7">
                     <div class="card-body">
-                        <h2 class="card-title">Le loup de Wall Street</h2>
-                        <p class="card-text">Inspiré de l'histoire vraie de Jordan Belfort, de son ascension au rôle de riche courtier à la belle vie jusqu'à sa chute impliquant crime, corruption et les autorités.</p>
-                        <p class="card-text"><small class="text-muted">Date de sortie: 25 décembre 2013 (France)</small></p>
+                        <h2 class="card-title">Le Silence des Ombres (Shelter) </h2>
+                        <p class="card-text" style="text-align:justify;">une psychiatre, le Dr Cara Harding, rencontre un patient avec une personnalité multiple. Au fur et à mesure de ses recherches, elle découvre que chaque personnalité correspond à une personne décédée, et que le patient est possédé par ces esprits...</p>
+                        <p class="card-text"><small class="text-muted">Date de sortie: 02 Décembre 2005</small></p>
                     </div>
                 </div>
             </div>
         </div>
+
+        <div class="card mb-3 mr-3" style="max-width:540px;">
+            <div class="row no-gutters">
+                <div class="col-md-5">
+                    <img src="filmsforsite/babel.jpg" alt="" class="card-img" style="height:45vh; object-fit: cover; margin-top: 50px;">
+                </div>
+                <div class="col-md-7">
+                    <div class="card-body">
+                       <h2 class="card-title">Babel</h2>
+                        <p class="card-text" style="text-align:justify;">En plein désert marocain, un coup de feu retentit. Il va déclencher toute une série d'événements qui impliqueront un couple de touristes américains, deux jeunes Marocains, une nourrice qui voyage illégalement avec deux enfants américains, et une adolescente japonaise rebelle dont le père est recherché par la police à Tokyo. … .</p>
+                        <p class="card-text"><small class="text-muted">Date de sortie: 15 Novembre 2006</small></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
     </div>
 </div>
 

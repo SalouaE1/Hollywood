@@ -11,16 +11,16 @@
 </head>
 <body>
 
-    <div class="header">Hollywood News</div>
+    <div class="header">Films : Voyage à Travers l'Esprit Humain</div>
     <div class="navbar navbar-expand-sm navbar-light stiky-top">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="myNavbar">
           <ul class="navbar-nav mr-auto mt-2 mt-sm-0">
-            <li class="nav-item"><a href="home.php" class="nav-link">HOME</a></li>
-            <li class="nav-item"><a href="moovies.php" class="nav-link">MOOVIES</a></li>
-            <li class="nav-item"><a href="contact.php" class="nav-link">CONTACT</a></li>
+            <li class="nav-item"><a href="home.php" class="nav-link" style="color:tomato; font-size:20px;">HOME</a></li>
+            <li class="nav-item"><a href="moovies.php" class="nav-link" style="color:tomato; font-size:20px;">MOOVIES</a></li>
+            <li class="nav-item"><a href="contact.php" class="nav-link" style="color:tomato; font-size:20px;">CONTACT</a></li>
           </ul >
         </div>
         <form class="form-inline my-2 my-sm-0">
